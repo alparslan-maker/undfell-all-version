@@ -46,7 +46,7 @@ input(" torial : insan sana çocuğum diye bilirmiyim ? : " )
 print(" torial : tamam çocuğum " )
 input(" flowey : DOSTUM torial tanıdığım en iyi canavar değilmi?benden bile iyi : " )
 input(" flowey : bu arada her şey çok hızlı oldu özür dilerim çok heyecanlıydım yani ilk defa bi insanla yüz yüze konuşuyorum Eee sorun değil demi : " )
-x = random.randint(1,21472368476238746)
+x = random.randint(1,90000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000)
 print(" flowey :" +  str(x ))
 print("flowey : az önce dediğim şifre, aklında tutarsan belki yararı dokunur")
 input(" torial : insan için turtaaa yaptımmm ama doğru insan burda değil neyse, ama turta seversin demi insan? : " )
@@ -62,7 +62,7 @@ input(" kapatmicaksan 1 yaz : " )
 isim =  input("torial : nee kapatmadın bizi bırakmayan tek insan sen gerçekten kraliyet ailesine yakışır bir insansın ismin ne olsun : " )
 
 print("torial : senin ismin " + isim + " dreemurr")
-print("flowey : vay be " + isim + " dreemurr havlıymış")
+print("flowey : vay be " + isim + " dreemurr havalıymış")
 input("torial : " + isim + " dreemurr sen insansın biz ise canavarlarız maalesef aileye katılmak için testlerden geçmelisin, ilk test : DOSTlarına güvenirmisin : " )
 print("torial : güzell")
 print("flowey : torial ve " + isim + " dreemurr, geç olmadımı? ben yatıcam")
@@ -73,7 +73,7 @@ input("flowey : " + isim + " dreemurr EBOT DAĞINda ilk gününü geçirdinn  ne
 print("torial : FLOWEY " + isim + " dreemurr a saçma sapan sorular sorma!! onun adına ben özür dilerim " + isim + " dreemurr")
 input("flowey : ne yani " + isim + " dreemurr rahatsız oldumu? : " )
 print("torial : bi dakika! " + isim + " dreemurr un aileye katıldığından benden başka kimsenin haberi yok! " + isim + " dreemurr ve flowey ben haber vermeye gidiyorum")
-input("flowey : Eee bu sürede " + isim + " dreemurra kim bakıcak asgore mu ben mi : ")
+input("flowey : Eee bu sürede " + isim + " dreemurra kim bakıcak asgore mu muhteşem FLOWEY mi : ")
 print("flowey : ne dediğinin önemi yok tabikide BENN bakıcamm")
 input("torial : F L O W E YYY " + isim + " dreemurra böyle davranmaa.Onun yerine ben özür dilerim çocuğum : ")
 print("flowey : t-a-m-a-m  ÖZÜR")
@@ -81,7 +81,7 @@ input("torial : ben gidiyorum " + isim + " dreemur çocuğum bana son bişey diy
 print("torial : tamam çocuğum güle güle hemen gelicem")
 input("flowey : ahh knk napalım : ")
 print("flowey : tamam knk ben uyicam")
-input("yapımcı : İÇİN Bİ SEBEPTEN DOLAYI AZİMLE DOLUYOR " + isim + " DREEMURR")
+input("yapımcı : " + isim + " DREEMURR İÇİN Bİ SEBEPTEN DOLAYI AZİMLE DOLUYOR ")
 print("yapımcı : Eee benim burda olmamam lazım GOOD BYE PLAYER")
 input("torial : geldim "+ isim +" dreemurr bebeğim beni özledinmi : ")
 print("ailedeki herkes seni çok sevdi tabi ismin " + isim + " dreemurr olunca çok havalı oluyorsun açıkcası")
@@ -109,15 +109,19 @@ input("torial : sanırım bu hikaye çok uzadı bence programı kapatmalısın h
 input("??? : KAPAT ARTIK LAF ANLAMIYOSAN SEN BİLİRSİN : ")
 input("G*S*E* : ne? ismim yavaş yavaş görünüyooo :  " )
 input("GAS*ER : HAYIRRRRR HAYIRRRRR DURRRRR : " )
-input("GASTER : NO-NOO-N-NOOOOOOOOOOOO : " )
+input("GASTER : NO-NOO-N-NOOOOOOOOOOOO olamaz!!! : " )
 input("??_????? : bir daha yaparsan : " )
-print("hahahaha")
+print("SİSTEM ÇÖKÜYOR,İÇİN AZİMLE DOLUYOR!!! (BAŞARDIN " + isim + " DREEMURR,BAŞARDIN!")
+print("NPCLER : YÜCE ASGORD BİZİ ÖZGÜR YAŞATICAK,YÜCE ASGORD BİZİ ÖZGÜR YAŞATICAK,YÜCE ASGORD BİZİ ÖZGÜR YAŞATICAK,YÜCE ASGORD BİZİ ÖZGÜR YAŞATICAK,YÜCE ASGORD BİZİ ÖZGÜR YAŞATICAK,YÜCE ASGORD BİZİ ÖZGÜR YAŞATICAK,YÜCE ASGORD BİZİ ÖZGÜR YAŞATICAK,YÜCE ASGORD BİZİ ÖZGÜR YAŞATICAK,YÜCE ASGORD BİZİ ÖZGÜR YAŞATICAK,YÜCE ASGORD BİZİ ÖZGÜR YAŞATICAK,YÜCE ASGORD BİZİ ÖZGÜR YAŞATICAK")
 
 
-
-
-
+input("""  UNDERTALE BY TOBY FOX
+                UNDFELL BY ALPARSLAN ALİ
+                THANK FOR PLAYİNG""")
 
 ara.mainloop()
+
+
+
 
 
